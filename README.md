@@ -1,0 +1,2 @@
+# Funster
+Funster simple app
